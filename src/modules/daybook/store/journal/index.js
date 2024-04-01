@@ -8,7 +8,7 @@ const journalModule = {
     actions,
     getters,
     mutations,
-    state
+    state,
 }
 
 export default journalModule
